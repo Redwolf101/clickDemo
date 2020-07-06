@@ -46,7 +46,7 @@ function showClickWrapper() {
 			onError: callbackFnError
     }, '#ds-terms-of-service');
   }
-
+ 
 function callbackFnAgreed(){
 		console.log ("callbackFnAgreed");
 		document.getElementById ('signUpForm').style.display = "none";
