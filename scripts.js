@@ -3,7 +3,7 @@ var dsAccountId = 'd6f5e97b-1c4c-427d-b0d0-41a3729da39b';
 //  replace value below with your Clickwrap ID //
 var dsClickwrapId = 'cdd6db17-33ff-49ec-9cd8-22967972e8c2';
 // replace value below with modal or inline depending on your clickwrap type //
-var clickDisplayType = 'modal';
+var clickDisplayType = 'inline';
 // replace logo URL below with your customers logo url.  transparent works best //
 var logoUrl = 'https://www.innov8ive.app/LOGO.png';
 // replace with your brand hex code.  changes color of header text and button background //
